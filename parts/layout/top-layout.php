@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
     
-<!-- Mirrored from webtendtheme.net/html/2023/NoorTravels/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Oct 2024 08:16:43 GMT -->
 <head>
         <!--====== Required meta tags ======-->
         <meta charset="utf-8">
@@ -36,29 +35,3 @@
         <link rel="stylesheet" href="assets/css/style.css">
     </head>
     <body>
-      <!--====== Start Preloader ======-->
-<div class="preloader">
-    <div class="loader-wrapper">
-        
-        <!-- Rotating Circle -->
-        <div class="loader-circle"></div>
-
-        <!-- Logo in the Center -->
-        <div class="loader-logo">
-            <img src="assets/images/logo/newnewcol.png" alt="Noor Travels Logo">
-        </div>
-
-      
-
-    </div>
-</div>
-<!--====== End Preloader ======-->
-<script>
-window.addEventListener("load", function () {
-    document.querySelector(".preloader").style.transition = "opacity 0.6s ease";
-    document.querySelector(".preloader").style.opacity = "0";
-    setTimeout(function(){
-        document.querySelector(".preloader").style.display = "none";
-    }, 600);
-});
-</script>
