@@ -101,7 +101,7 @@
                                 </select>
                             </div>
                             <div class="menu-button d-xl-block d-none">
-                                <a href="contact.php" class="main-btn primary-btn">Book Now<i class="fas fa-paper-plane"></i></a>
+                                <a href="https://wa.me/233552305782" class="main-btn primary-btn">Chat Us Now<i class="fab fa-whatsapp"></i></a>
                             </div>
                             <div class="navbar-toggler">
                                 <span></span>

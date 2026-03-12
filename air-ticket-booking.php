@@ -26,13 +26,11 @@ to ensure you get the best fare options available.
 </p>
 
 <div class="row">
-<div class="col-lg-6">
-<img src="assets/images/gallery/gal24.jpg" class="rounded mb-40" alt="">
-</div>
-<div class="col-lg-6">
-<img src="assets/images/gallery/tour-pic.jpg" class="rounded mb-40" alt="">
-</div>
-</div>
+                  
+                    <div class="col-lg-6">
+                        <img src="assets/images/gallery/image404.jpeg"  class="rounded mb-40" alt="Consultation" style="width:400px">
+                    </div>
+                </div>
 
 <h3>Why Book With Noor Travels?</h3>
 
@@ -139,7 +137,7 @@ to ensure you get the best fare options available.
             <!-- UK -->
             <div class="single-place-item mb-60">
                 <div class="place-img">
-                    <img src="assets/images/gallery/gal22.jpg" alt="UK">
+                    <img src="assets/images/gallery/Saudi-Arabia.jpg" alt="Saudi">
                 </div>
                 <div class="place-content">
                     <div class="info">
@@ -150,9 +148,9 @@ to ensure you get the best fare options available.
                             <li><i class="fas fa-star"></i></li>
                             <li><i class="fas fa-star"></i></li>
                         </ul>
-                        <h4 class="title">United Kingdom </h4>
+                        <h4 class="title">Saudi Arabia </h4>
                         <p class="location">
-                            <i class="fas fa-map-marker-alt"></i>London, UK
+                            <i class="fas fa-map-marker-alt"></i>Saudi
                         </p>
                         <p class="price">Processing Support Available</p>
                     </div>
@@ -162,7 +160,7 @@ to ensure you get the best fare options available.
             <!-- USA -->
             <div class="single-place-item mb-60">
                 <div class="place-img">
-                    <img src="assets/images/gallery/gal23.jpg" alt="USA">
+                    <img src="assets/images/gallery/dubI.jpg" alt="Dubai">
                 </div>
                 <div class="place-content">
                     <div class="info">
@@ -173,11 +171,11 @@ to ensure you get the best fare options available.
                             <li><i class="fas fa-star"></i></li>
                             <li><i class="fas fa-star"></i></li>
                         </ul>
-                        <h4 class="title">United States </h4>
+                        <h4 class="title">Dubai </h4>
                         <p class="location">
-                            <i class="fas fa-map-marker-alt"></i>USA
+                            <i class="fas fa-map-marker-alt"></i>Dubai
                         </p>
-                        <p class="price">Interview Guidance Included</p>
+                        <p class="price"> Guidance Included</p>
                     </div>
                 </div>
             </div>
@@ -185,7 +183,7 @@ to ensure you get the best fare options available.
             <!-- Canada -->
             <div class="single-place-item mb-60">
                 <div class="place-img">
-                    <img src="assets/images/gallery/gall21.jpg" alt="Canada">
+                    <img src="assets/images/gallery/qatar.jpg" alt="qatar">
                 </div>
                 <div class="place-content">
                     <div class="info">
@@ -196,11 +194,11 @@ to ensure you get the best fare options available.
                             <li><i class="fas fa-star"></i></li>
                             <li><i class="fas fa-star"></i></li>
                         </ul>
-                        <h4 class="title">Canada Visa</h4>
+                        <h4 class="title">Qatar</h4>
                         <p class="location">
-                            <i class="fas fa-map-marker-alt"></i>Canada
+                            <i class="fas fa-map-marker-alt"></i>Qatar
                         </p>
-                        <p class="price">Full Documentation Review</p>
+                        <p class="price">Processing Support Available</p>
                     </div>
                 </div>
             </div>

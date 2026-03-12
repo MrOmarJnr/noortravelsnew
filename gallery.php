@@ -14,14 +14,76 @@ require_once('parts/page-title.php');
                         <!--=== Single Gallery Item ===-->
                         <div class="single-gallery-item mb-30 wow fadeInUp">
                             <div class="gallery-img">
-                                <img src="assets/images/gallery/gal1.png" alt="Gallery Image">
+                                <img src="assets/images/gallery/image403.jpeg" alt="Gallery Image">
                                 <div class="hover-overlay">
-                                    <a href="assets/images/gallery/gal1.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                    <a href="assets/images/gallery/image403.jpeg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
+                      <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!--=== Single Gallery Item ===-->
+                        <div class="single-gallery-item mb-30 wow fadeInUp">
+                            <div class="gallery-img">
+                                <img src="assets/images/gallery/gal9.png" alt="Gallery Image">
+                                <div class="hover-overlay">
+                                    <a href="assets/images/gallery/gal9.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+ <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!--=== Single Gallery Item ===-->
+                        <div class="single-gallery-item mb-30 wow fadeInUp">
+                            <div class="gallery-img">
+                                <img src="assets/images/gallery/image401.jpeg" alt="Gallery Image">
+                                <div class="hover-overlay">
+                                    <a href="assets/images/gallery/image401.jpeg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                     <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!--=== Single Gallery Item ===-->
+                        <div class="single-gallery-item mb-30 wow fadeInUp">
+                            <div class="gallery-img">
+                                <img src="assets/images/gallery/image402.jpeg" alt="Gallery Image">
+                                <div class="hover-overlay">
+                                    <a href="assets/images/gallery/image402.jpeg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                     <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!--=== Single Gallery Item ===-->
+                        <div class="single-gallery-item mb-30 wow fadeInUp">
+                            <div class="gallery-img">
+                                <img src="assets/images/gallery/image405.jpeg" alt="Gallery Image">
+                                <div class="hover-overlay">
+                                    <a href="assets/images/gallery/image405.jpeg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                     <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!--=== Single Gallery Item ===-->
+                        <div class="single-gallery-item mb-30 wow fadeInUp">
+                            <div class="gallery-img">
+                                <img src="assets/images/gallery/image406.jpeg" alt="Gallery Image">
+                                <div class="hover-overlay">
+                                    <a href="assets/images/gallery/image406.jpeg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                      <div class="col-lg-4 col-md-6 col-sm-12">
                         <!--=== Single Gallery Item ===-->
                         <div class="single-gallery-item mb-30 wow fadeInUp">
                             <div class="gallery-img">
@@ -43,6 +105,45 @@ require_once('parts/page-title.php');
                             </div>
                         </div>
                     </div>
+
+                     <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!--=== Single Gallery Item ===-->
+                        <div class="single-gallery-item mb-30 wow fadeInUp">
+                            <div class="gallery-img">
+                                <img src="assets/images/gallery/image407.jpeg" alt="Gallery Image">
+                                <div class="hover-overlay">
+                                    <a href="assets/images/gallery/image407.jpeg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                     <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!--=== Single Gallery Item ===-->
+                        <div class="single-gallery-item mb-30 wow fadeInUp">
+                            <div class="gallery-img">
+                                <img src="assets/images/gallery/image408.jpeg" alt="Gallery Image">
+                                <div class="hover-overlay">
+                                    <a href="assets/images/gallery/image408.jpeg" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                     <div class="col-lg-4 col-md-6 col-sm-12">
+                        <!--=== Single Gallery Item ===-->
+                        <div class="single-gallery-item mb-30 wow fadeInUp">
+                            <div class="gallery-img">
+                                <img src="assets/images/gallery/gal1.png" alt="Gallery Image">
+                                <div class="hover-overlay">
+                                    <a href="assets/images/gallery/gal1.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                  
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <!--=== Single Gallery Item ===-->
                         <div class="single-gallery-item mb-30 wow fadeInUp">
@@ -98,17 +199,7 @@ require_once('parts/page-title.php');
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <!--=== Single Gallery Item ===-->
-                        <div class="single-gallery-item mb-30 wow fadeInUp">
-                            <div class="gallery-img">
-                                <img src="assets/images/gallery/gal9.png" alt="Gallery Image">
-                                <div class="hover-overlay">
-                                    <a href="assets/images/gallery/gal9.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                  
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <!--=== Single Gallery Item ===-->
                         <div class="single-gallery-item mb-30 wow fadeInUp">

@@ -28,7 +28,7 @@
             flights, accommodation coordination, and pre-departure assistance.
           </p>
 
-          <img src="assets/images/service/umrahpack.png" alt="Umrah Packages">
+          <img src="assets/images/gallery/image409.jpg" alt="Umrah Packages">
 
           <a href="umrah-packages.php" class="btn-link">
             View Packages <i class="fas fa-long-arrow-alt-right"></i>
@@ -106,7 +106,7 @@
             groups, and corporate travelers seeking professionally managed trips.
           </p>
 
-          <img src="assets/images/service/dubaitour.png" alt="Tours & Holiday Packages">
+          <img src="assets/images/gallery/image410.jpg" alt="Tours & Holiday Packages">
 
           <a href="tours.php" class="btn-link">
             Explore Tours <i class="fas fa-long-arrow-alt-right"></i>

@@ -6565,4 +6565,23 @@ ul.slick-dots li.slick-active {
   margin-bottom: 38px;
 }
 
+.whatsapp-float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 25px;
+  right: 25px;
+  z-index: 9999;
+}
+
+.whatsapp-float img {
+  width: 100%;
+  height: 100%;
+}
+
+.whatsapp-float:hover {
+  transform: scale(1.1);
+}
+
+
 /*# sourceMappingURL=style.css.map */

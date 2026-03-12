@@ -32,9 +32,7 @@ require_once('parts/page-title.php');
                 </p>
 
                 <div class="row">
-                    <div class="col-lg-6">
-                        <img src="assets/images/gallery/tour-pic.jpg" class="rounded mb-40" alt="Visa Support">
-                    </div>
+                  
                     <div class="col-lg-6">
                         <img src="assets/images/gallery/group-pic.jpg" class="rounded mb-40" alt="Consultation">
                     </div>
@@ -146,7 +144,7 @@ require_once('parts/page-title.php');
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title text-center mb-45 wow fadeInDown">
-                    <h2>Popular Visa Destinations</h2>
+                    <h2>Popular Travel Destinations</h2>
                 </div>
             </div>
         </div>
@@ -156,14 +154,20 @@ require_once('parts/page-title.php');
             <!-- UK -->
             <div class="single-place-item mb-60">
                 <div class="place-img">
-                     <img src="assets/images/gallery/gal22.jpg" alt="UK">
+                    <img src="assets/images/gallery/Saudi-Arabia.jpg" alt="Saudi">
                 </div>
                 <div class="place-content">
                     <div class="info">
-                   
-                        <h4 class="title">United Kingdom Visa</h4>
+                        <ul class="ratings">
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                        </ul>
+                        <h4 class="title">Saudi Arabia </h4>
                         <p class="location">
-                            <i class="fas fa-map-marker-alt"></i>London, UK
+                            <i class="fas fa-map-marker-alt"></i>Saudi
                         </p>
                         <p class="price">Processing Support Available</p>
                     </div>
@@ -173,16 +177,22 @@ require_once('parts/page-title.php');
             <!-- USA -->
             <div class="single-place-item mb-60">
                 <div class="place-img">
-                     <img src="assets/images/gallery/gal23.jpg" alt="USA">
+                    <img src="assets/images/gallery/dubI.jpg" alt="Dubai">
                 </div>
                 <div class="place-content">
                     <div class="info">
-                      
-                        <h4 class="title">United States Visa</h4>
+                        <ul class="ratings">
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                        </ul>
+                        <h4 class="title">Dubai </h4>
                         <p class="location">
-                            <i class="fas fa-map-marker-alt"></i>USA
+                            <i class="fas fa-map-marker-alt"></i>Dubai
                         </p>
-                        <p class="price">Interview Guidance Included</p>
+                        <p class="price"> Guidance Included</p>
                     </div>
                 </div>
             </div>
@@ -190,16 +200,22 @@ require_once('parts/page-title.php');
             <!-- Canada -->
             <div class="single-place-item mb-60">
                 <div class="place-img">
-                    <img src="assets/images/gallery/gall21.jpg" alt="Canada">
+                    <img src="assets/images/gallery/qatar.jpg" alt="qatar">
                 </div>
                 <div class="place-content">
                     <div class="info">
-                        
-                        <h4 class="title">Canada Visa</h4>
+                        <ul class="ratings">
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                            <li><i class="fas fa-star"></i></li>
+                        </ul>
+                        <h4 class="title">Qatar</h4>
                         <p class="location">
-                            <i class="fas fa-map-marker-alt"></i>Canada
+                            <i class="fas fa-map-marker-alt"></i>Qatar
                         </p>
-                        <p class="price">Full Documentation Review</p>
+                        <p class="price">Processing Support Available</p>
                     </div>
                 </div>
             </div>
@@ -209,7 +225,6 @@ require_once('parts/page-title.php');
 </section>
 <!--====== End Places Section ======-->
 
- 
            <!--====== Start Gallery Section ======-->
         <section class="gallery-section mbm-150">
             <div class="container-fluid">

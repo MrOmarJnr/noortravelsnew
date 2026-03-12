@@ -83,7 +83,7 @@ while maintaining comfort, organization, and reliability.
 
 <div class="single-gallery-item mb-30">
 <div class="gallery-img">
-<img src="assets/images/gallery/hajj-umrah-tawah.jpg" alt="Saudi Journey">
+<img src="assets/images/gallery/image403.jpeg" alt="Saudi Journey">
 <div class="hover-overlay">
 <a href="assets/images/gallery/gal11.png" class="icon-btn img-popup">
 <i class="far fa-plus"></i>

@@ -6,7 +6,7 @@
 
 <?php
 $page_title = "Contact";
-require_once('parts/page-title.php');
+require_once('parts/page-title2.php');
 ?>
 
 <!--====== Start Info Section ======-->
@@ -72,7 +72,7 @@ require_once('parts/page-title.php');
                     </div>
                     <div class="info">
                         <span class="title">Hotline</span>
-                        <p><a href="tel:+233000000000">+233 000 000 000</a></p>
+                        <p><a href="tel:+233000000000">+233 552 305 782</a></p>
                     </div>
                 </div>
             </div>
@@ -187,65 +187,123 @@ require_once('parts/page-title.php');
 </section>
 <!--====== End Contact Section ======-->
 
+         <!--====== Start Gallery Section ======-->
+        <section class="gallery-section mbm-150">
+            <div class="container-fluid">
+                <div class="slider-active-5-item wow fadeInUp">
+                    <!--=== Single Gallery Item ===-->
+                    <div class="single-gallery-item">
+                        <div class="gallery-img">
+                            <img src="assets/images/gallery/gal1.png" alt="Gallery Image">
+                            <div class="hover-overlay">
+                                <a href="assets/images/gallery/gal1.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--=== Single Gallery Item ===-->
+                    <div class="single-gallery-item">
+                        <div class="gallery-img">
+                            <img src="assets/images/gallery/gal2.png" alt="Gallery Image">
+                            <div class="hover-overlay">
+                                <a href="assets/images/gallery/gal2.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
 
-<!--====== Start Gallery Section ======-->
-<section class="gallery-section mbm-150">
-    <div class="container-fluid">
-        <div class="slider-active-5-item wow fadeInUp">
+                      <!--=== Single Gallery Item ===-->
+                    <div class="single-gallery-item">
+                        <div class="gallery-img">
+                            <img src="assets/images/gallery/image40.png" alt="Gallery Image">
+                            <div class="hover-overlay">
+                                <a href="assets/images/gallery/image40.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
 
-            <div class="single-gallery-item">
-                <div class="gallery-img">
-                    <img src="assets/images/gallery/tour-pic.jpg" alt="Travel Image">
-                    <div class="hover-overlay">
-                        <a href="assets/images/gallery/tour-pic.jpg"
-                           class="icon-btn img-popup">
-                           <i class="far fa-plus"></i>
-                        </a>
+                    <!--=== Single Gallery Item ===-->
+                    <div class="single-gallery-item">
+                        <div class="gallery-img">
+                            <img src="assets/images/gallery/gal3.png" alt="Gallery Image">
+                            <div class="hover-overlay">
+                                <a href="assets/images/gallery/gal3.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                       <!--=== Single Gallery Item ===-->
+                    <div class="single-gallery-item">
+                        <div class="gallery-img">
+                            <img src="assets/images/gallery/image43.png" alt="Gallery Image">
+                            <div class="hover-overlay">
+                                <a href="assets/images/gallery/image43.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--=== Single Gallery Item ===-->
+                    <div class="single-gallery-item">
+                        <div class="gallery-img">
+                            <img src="assets/images/gallery/gal4.png" alt="Gallery Image">
+                            <div class="hover-overlay">
+                                <a href="assets/images/gallery/gal4.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                      <!--=== Single Gallery Item ===-->
+                    <div class="single-gallery-item">
+                        <div class="gallery-img">
+                            <img src="assets/images/gallery/image44.png" alt="Gallery Image">
+                            <div class="hover-overlay">
+                                <a href="assets/images/gallery/image44.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                      <!--=== Single Gallery Item ===-->
+                    <div class="single-gallery-item">
+                        <div class="gallery-img">
+                            <img src="assets/images/gallery/image41.png" alt="Gallery Image">
+                            <div class="hover-overlay">
+                                <a href="assets/images/gallery/gal41.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--=== Single Gallery Item ===-->
+                    <div class="single-gallery-item">
+                        <div class="gallery-img">
+                            <img src="assets/images/gallery/gal5.png" alt="Gallery Image">
+                            <div class="hover-overlay">
+                                <a href="assets/images/gallery/gal5.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    
+                    <!--=== Single Gallery Item ===-->
+                    <div class="single-gallery-item">
+                        <div class="gallery-img">
+                            <img src="assets/images/gallery/image42.png" alt="Gallery Image">
+                            <div class="hover-overlay">
+                                <a href="assets/images/gallery/image42.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--=== Single Gallery Item ===-->
+                    <div class="single-gallery-item">
+                        <div class="gallery-img">
+                            <img src="assets/images/gallery/gal6.png" alt="Gallery Image">
+                            <div class="hover-overlay">
+                                <a href="assets/images/gallery/gal6.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-
-            <div class="single-gallery-item">
-                <div class="gallery-img">
-                    <img src="assets/images/gallery/land-scene.jpg" alt="Travel Image">
-                    <div class="hover-overlay">
-                        <a href="assets/images/gallery/land-scene.jpg"
-                           class="icon-btn img-popup">
-                           <i class="far fa-plus"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="single-gallery-item">
-                <div class="gallery-img">
-                    <img src="assets/images/gallery/group-pic.jpg" alt="Travel Image">
-                    <div class="hover-overlay">
-                        <a href="assets/images/gallery/group-pic.jpg"
-                           class="icon-btn img-popup">
-                           <i class="far fa-plus"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Duplicate slides to maintain slider -->
-            <div class="single-gallery-item">
-                <div class="gallery-img">
-                    <img src="assets/images/gallery/tour-pic.jpg" alt="Travel Image">
-                    <div class="hover-overlay">
-                        <a href="assets/images/gallery/tour-pic.jpg"
-                           class="icon-btn img-popup">
-                           <i class="far fa-plus"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<!--====== End Gallery Section ======-->
+        </section>
+        <!--====== End Gallery Section ======-->
 
 <?php require_once('parts/footer/footer3.php'); ?>
 <?php require_once('parts/layout/bottom-layout.php'); ?>

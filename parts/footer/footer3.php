@@ -57,10 +57,11 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="social-box mb-40 float-lg-end">
                         <ul class="social-link">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                             <li><a href="https://www.tiktok.com/@saudi.qatar.dubai_visas?_r=1&_t=ZS-94chrYjvrBF"><i class="fab fa-tiktok"></i></a></li>
+                            <li><a href="https://www.facebook.com/profile.php?id=61573508745134&mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                            <li><a href="#"><i class="fab fa-tiktok"></i></a></li>
+                            <li><a href="https://wa.me/233552305782"><i class="fab fa-whatsapp"></i></a></li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -96,10 +97,10 @@
                         <h4 class="widget-title">Our Services</h4>
                         <div class="footer-content">
                             <ul class="footer-widget-nav">
-                                <li><a href="#">Visa Consultation & Processing</a></li>
-                                <li><a href="#">Holiday Tour Packages</a></li>
-                                <li><a href="#">Flight Booking Assistance</a></li>
-                                <li><a href="#">Travel Insurance</a></li>
+                                <li><a href="visa-consultancy.php">Visa Consultation & Processing</a></li>
+                                <li><a href="travel-advisory.php">Holiday Tour Packages</a></li>
+                                <li><a href="organizational-tour.php">Flight Booking Assistance</a></li>
+                                <li><a href="pilgrim-package.php">Umrah Packages</a></li>
                                 <li><a href="#">Hotel Reservations</a></li>
                             </ul>
 

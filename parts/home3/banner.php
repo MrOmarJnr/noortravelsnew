@@ -50,8 +50,8 @@
                     View Umrah Packages <i class="fas fa-arrow-right"></i>
                   </a>
 
-                  <a href="visa-services.php" class="main-btn secondary-btn">
-                    Apply for Saudi Visa <i class="fas fa-arrow-right"></i>
+                  <a href="contact.php" class="main-btn secondary-btn">
+                    Make an Enquiry<i class="fas fa-arrow-right"></i>
                   </a>
                 </div>
 
@@ -84,7 +84,7 @@
                     View All Services <i class="fas fa-arrow-right"></i>
                   </a>
 
-                  <a href="contact.php" class="main-btn secondary-btn">
+                  <a href="https://wa.me/233552305782" class="main-btn secondary-btn">
                     Speak to Our Team <i class="fas fa-phone"></i>
                   </a>
                 </div>

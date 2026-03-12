@@ -454,7 +454,7 @@ require_once('parts/page-title.php');
             <!-- LEFT IMAGE -->
             <div class="col-xl-5 col-lg-12 order-2 order-xl-1">
                 <div class="testimonial-one_image-box mb-40 wow fadeInLeft">
-                    <img src="assets/images/testimonial/about-image.png" alt="Client Feedback">
+                    <img src="assets/images/gallery/image407.jpeg" alt="Client Feedback">
                 </div>
             </div>
 
