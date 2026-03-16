@@ -1,7 +1,7 @@
 
 
         <!--====== Start Breadcrumb Section ======-->
-        <section class="page-banner overlay pt-170 pb-170 bg_cover" style="background-image: url(assets/images/gallery/image501.jpg);">
+        <section class="page-banner overlay pt-170 pb-170 bg_cover" style="background-image: url(assets/images/bg/contactbg.jpeg);">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-10">

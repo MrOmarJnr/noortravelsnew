@@ -86,7 +86,7 @@
              <!-- Dubai Safari -->
             <div class="single-gallery-item-two">
                 <div class="img-holder">
-                    <img src="assets/images/gallery/dubaisafari.png" alt="Dubai Safari">
+                    <img src="assets/images/gallery/image505.jpg" alt="Dubai Safari">
                 </div>
                 <div class="content">
                     <h3 class="title">Dubai Safari</h3>

@@ -4,7 +4,7 @@
 
 <?php
 $page_title = "Pilgrim Package";
-require_once('parts/page-title.php');
+require_once('parts/page-title3.php');
 ?>
 
 <!--====== Start Pilgrim Details Section ======-->
@@ -114,7 +114,7 @@ while maintaining comfort, organization, and reliability.
 
 <!--====== Start CTA Section ======-->
 <section class="cta-bg overlay bg_cover pt-150 pb-150" 
-    style="background-image: url(assets/images/bg/tour-kakum.jpg);">
+    style="background-image: url(assets/images/gallery/image502.jpg);">
 
     <div class="container">
         <div class="row justify-content-center">
@@ -163,15 +163,13 @@ while maintaining comfort, organization, and reliability.
             <!-- Makkah -->
             <div class="single-place-item mb-60">
                 <div class="place-img">
-                    <img src="assets/images/gallery/gal1.png" alt="Makkah">
+                    <img src="assets/images/gallery/image407.jpeg" alt="Makkah">
                 </div>
                 <div class="place-content">
                     <div class="info">
-                        <h4 class="title">Makkah – Masjid al-Haram</h4>
-                        <p class="location">
-                            <i class="fas fa-map-marker-alt"></i>Kingdom of Saudi Arabia
-                        </p>
-                        <p class="price">Primary Umrah Destination</p>
+                        <h4 class="title">Airport Meet Up Area</h4>
+                    
+                        <p class="price">International Arrival Hub</p>
                     </div>
                 </div>
             </div>
@@ -179,14 +177,12 @@ while maintaining comfort, organization, and reliability.
             <!-- Madinah -->
             <div class="single-place-item mb-60">
                 <div class="place-img">
-                    <img src="assets/images/gallery/gal2.png" alt="Madinah">
+                    <img src="assets/images/gallery/image411.jpg" alt="Madinah">
                 </div>
                 <div class="place-content">
                     <div class="info">
-                        <h4 class="title">Madinah – Masjid an-Nabawi</h4>
-                        <p class="location">
-                            <i class="fas fa-map-marker-alt"></i>Kingdom of Saudi Arabia
-                        </p>
+                        <h4 class="title">The Kabba</h4>
+                      
                         <p class="price">Spiritual Visit</p>
                     </div>
                 </div>
@@ -195,15 +191,13 @@ while maintaining comfort, organization, and reliability.
             <!-- Jeddah -->
             <div class="single-place-item mb-60">
                 <div class="place-img">
-                    <img src="assets/images/gallery/gal3.png" alt="Jeddah">
+                    <img src="assets/images/gallery/image503.jpeg" alt="Jeddah">
                 </div>
                 <div class="place-content">
                     <div class="info">
-                        <h4 class="title">Jeddah</h4>
-                        <p class="location">
-                            <i class="fas fa-map-marker-alt"></i>Gateway to Makkah
-                        </p>
-                        <p class="price">International Arrival Hub</p>
+                        <h4 class="title">Place of Worship</h4>
+                     
+                        <p class="price"></p>
                     </div>
                 </div>
             </div>

@@ -4,7 +4,7 @@
 
 <?php
 $page_title = "About Noor Travels";
-require_once('parts/page-title.php');
+require_once('parts/page-title4.php');
 ?>
 
 <!--====== Start Features Section ======-->

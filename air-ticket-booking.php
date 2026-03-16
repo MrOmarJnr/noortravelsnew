@@ -30,6 +30,9 @@ to ensure you get the best fare options available.
                     <div class="col-lg-6">
                         <img src="assets/images/gallery/image404.jpeg"  class="rounded mb-40" alt="Consultation" style="width:400px">
                     </div>
+                    <div class="col-lg-6">
+                        <img src="assets/images/gallery/image406.jpeg"  class="rounded mb-40" alt="Consultation" style="width:400px">
+                    </div>
                 </div>
 
 <h3>Why Book With Noor Travels?</h3>

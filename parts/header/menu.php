@@ -6,7 +6,7 @@
 
 	<li class="menu-item has-children"><a href="#">Services</a>
 		<ul class="sub-menu">
-			<li><a href="pilgrim-package.php">Pilgrim Packages - Umrah</a></li>
+			<li><a href="pilgrim-package.php">Umrah Packages</a></li>
 			<li><a href="organizational-tour.php">Organizational Tour</a></li>
 			<li><a href="air-ticket-booking.php">Air Ticket Booking</a></li>
 			<li><a href="visa-consultancy.php">Visa Consultancy</a></li>
