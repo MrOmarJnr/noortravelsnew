@@ -83,7 +83,7 @@ require_once('parts/page-title.php');
                                         <img src="assets/images/blog/prev-post.jpg" alt="Post Thumb">
                                     </div>
                                     <div class="content">
-                                        <h6><a href="blog-details.php">Web Quality Assurance
+                                        <h6><a href="#">Web Quality Assurance
                                             Requirements To Web
                                             Dev Risk Manage</a></h6>
                                         <span class="post-date"><a href="#"><i class="far fa-calendar-alt"></i>November 23,2022</a></span>
@@ -94,7 +94,7 @@ require_once('parts/page-title.php');
                                         <img src="assets/images/blog/next-post.jpg" alt="Post Thumb">
                                     </div>
                                     <div class="content">
-                                        <h6><a href="blog-details.php">Deep Dive Into Wonder
+                                        <h6><a href="#">Deep Dive Into Wonder
                                             World Of Displaements
                                             Filtering</a></h6>
                                         <span class="post-date"><a href="#"><i class="far fa-calendar-alt"></i>November 23,2022</a></span>
@@ -215,7 +215,7 @@ require_once('parts/page-title.php');
                                     <li class="post-thumbnail-content">
                                         <img src="assets/images/blog/post-thumb-1.jpg" alt="post thumb">
                                         <div class="post-title-date">
-                                            <h5><a href="blog-details.php">Quality Assurance
+                                            <h5><a href="#">Quality Assurance
                                                 Requirements Web
                                                 Dev Risk Manage</a></h5>
                                             <span class="posted-on"><i class="far fa-calendar-alt"></i><a href="#">November 23,2022</a></span>
@@ -224,7 +224,7 @@ require_once('parts/page-title.php');
                                     <li class="post-thumbnail-content">
                                         <img src="assets/images/blog/post-thumb-2.jpg" alt="post thumb">
                                         <div class="post-title-date">
-                                            <h5><a href="blog-details.php">Deep Div Wonder
+                                            <h5><a href="#">Deep Div Wonder
                                                 World Of Displaem
                                                 Filtering</a></h5>
                                             <span class="posted-on"><i class="far fa-calendar-alt"></i><a href="#">November 23,2022</a></span>
@@ -233,7 +233,7 @@ require_once('parts/page-title.php');
                                     <li class="post-thumbnail-content">
                                         <img src="assets/images/blog/post-thumb-3.jpg" alt="post thumb">
                                         <div class="post-title-date">
-                                            <h5><a href="blog-details.php">Handling Mountin mountin Naviation
+                                            <h5><a href="#">Handling Mountin mountin Naviation
                                                 Routes In Native</a></h5>
                                             <span class="posted-on"><i class="far fa-calendar-alt"></i><a href="#">November 23,2022</a></span>
                                         </div>

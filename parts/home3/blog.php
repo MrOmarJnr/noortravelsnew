@@ -17,7 +17,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="single-blog-post-three mb-40">
                     <div class="post-thumbnail">
-                        <img src="assets/images/blog/dubai-tour.png" alt="Dubai Tour">
+                        <img src="assets/images/gallery/image801.jpg" alt="Dubai Tour">
                     </div>
                     <div class="entry-content">
                         <div class="post-meta">
@@ -26,11 +26,11 @@
                                 <a href="#">January 20, 2026</a>
                             </span>
                             <h3 class="title">
-                                <a href="blog-details.php">
-                                    December Dubai Holiday Package – Limited Slots Available
+                                <a href="#">
+                                    Umrah Pilgrimage Package – Limited Slots Available
                                 </a>
                             </h3>
-                            <a href="blog-details.php" class="main-btn filled-btn">
+                            <a href="#" class="main-btn filled-btn">
                                 View Details
                                 <i class="far fa-paper-plane"></i>
                             </a>
@@ -43,7 +43,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="single-blog-post-three mb-40">
                     <div class="post-thumbnail">
-                        <img src="assets/images/blog/uk-visa.png" alt="UK Visa Requirements">
+                        <img src="assets/images/gallery/image802.jpg" alt="UK Visa Requirements">
                     </div>
                     <div class="entry-content">
                         <div class="post-meta">
@@ -52,11 +52,11 @@
                                 <a href="#">Updated November 2025</a>
                             </span>
                             <h3 class="title">
-                                <a href="blog-details.php">
-                                    UK Visa Requirements for Ghanaian Applicants – 2026 Guide
+                                <a href="#">
+                                    Saudi Visa Requirements for Ghanaian Applicants – 2026 Guide
                                 </a>
                             </h3>
-                            <a href="blog-details.php" class="main-btn filled-btn">
+                            <a href="#" class="main-btn filled-btn">
                                 Read Requirements
                                 <i class="far fa-paper-plane"></i>
                             </a>
@@ -69,7 +69,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="single-blog-post-three mb-40">
                     <div class="post-thumbnail">
-                        <img src="assets/images/blog/christmas-offer.png" alt="Christmas Travel Offer">
+                        <img src="assets/images/gallery/image801.jpg" alt="Christmas Travel Offer">
                     </div>
                     <div class="entry-content">
                         <div class="post-meta">
@@ -78,11 +78,11 @@
                                 <a href="#">Special Promotion</a>
                             </span>
                             <h3 class="title">
-                                <a href="blog-details.php">
+                                <a href="#">
                                     Christmas & New Year Travel Deals – Book Early & Save
                                 </a>
                             </h3>
-                            <a href="blog-details.php" class="main-btn filled-btn">
+                            <a href="" class="main-btn filled-btn">
                                 Check Offer
                                 <i class="far fa-paper-plane"></i>
                             </a>

@@ -22,11 +22,11 @@ require_once('parts/page-title.php');
                                     <div class="post-meta">
                                         <span><i class="far fa-calendar-alt"></i><a href="#">November 15, 2022</a></span>
                                     </div>
-                                    <h3 class="title"><a href="blog-details.php">Meet Skeleton 
+                                    <h3 class="title"><a href="#">Meet Skeleton 
                                         Svelte Taile Sindey
                                         For Reactive UIs</a></h3>
                                     <h6 class="author"><i class="far fa-user"></i><a href="#">Matthew N. Davis</a></h6>
-                                    <a href="blog-details.php" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
+                                    <a href="#" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
                                 </div>
                             </div>
                             <!--=== Single Blog Post ===-->
@@ -38,10 +38,10 @@ require_once('parts/page-title.php');
                                     <div class="post-meta">
                                         <span><i class="far fa-calendar-alt"></i><a href="#">November 15, 2022</a></span>
                                     </div>
-                                    <h3 class="title"><a href="blog-details.php">Resolving Conflicts
+                                    <h3 class="title"><a href="#">Resolving Conflicts
                                         Between Designers And Engineers</a></h3>
                                     <h6 class="author"><i class="far fa-user"></i><a href="#">Matthew N. Davis</a></h6>
-                                    <a href="blog-details.php" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
+                                    <a href="#" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
                                 </div>
                             </div>
                             <!--=== Single Blog Post ===-->
@@ -53,11 +53,11 @@ require_once('parts/page-title.php');
                                     <div class="post-meta">
                                         <span><i class="far fa-calendar-alt"></i><a href="#">November 15, 2022</a></span>
                                     </div>
-                                    <h3 class="title"><a href="blog-details.php">Meet Skeleton 
+                                    <h3 class="title"><a href="#">Meet Skeleton 
                                         Svelte Taile Sindey
                                         For Reactive UIs</a></h3>
                                     <h6 class="author"><i class="far fa-user"></i><a href="#">Matthew N. Davis</a></h6>
-                                    <a href="blog-details.php" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
+                                    <a href="#" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
                                 </div>
                             </div>
                             <!--=== Single Blog Post ===-->
@@ -69,11 +69,11 @@ require_once('parts/page-title.php');
                                     <div class="post-meta">
                                         <span><i class="far fa-calendar-alt"></i><a href="#">November 15, 2022</a></span>
                                     </div>
-                                    <h3 class="title"><a href="blog-details.php">Using Automated
+                                    <h3 class="title"><a href="#">Using Automated
                                         To Results Improve
                                         Accessibility</a></h3>
                                     <h6 class="author"><i class="far fa-user"></i><a href="#">Matthew N. Davis</a></h6>
-                                    <a href="blog-details.php" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
+                                    <a href="#" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
                                 </div>
                             </div>
                             <!--=== Single Blog Post ===-->
@@ -85,11 +85,11 @@ require_once('parts/page-title.php');
                                     <div class="post-meta">
                                         <span><i class="far fa-calendar-alt"></i><a href="#">November 15, 2022</a></span>
                                     </div>
-                                    <h3 class="title"><a href="blog-details.php">Usability Journey 
+                                    <h3 class="title"><a href="#">Usability Journey 
                                         Of Drupal’s Primary
                                         Navigation</a></h3>
                                     <h6 class="author"><i class="far fa-user"></i><a href="#">Matthew N. Davis</a></h6>
-                                    <a href="blog-details.php" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
+                                    <a href="#" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
                                 </div>
                             </div>
                             <!--=== Single Blog Post ===-->
@@ -101,10 +101,10 @@ require_once('parts/page-title.php');
                                     <div class="post-meta">
                                         <span><i class="far fa-calendar-alt"></i><a href="#">November 15, 2022</a></span>
                                     </div>
-                                    <h3 class="title"><a href="blog-details.php">Voice Usability Consideration For
+                                    <h3 class="title"><a href="#">Voice Usability Consideration For
                                         Partially Visually</a></h3>
                                     <h6 class="author"><i class="far fa-user"></i><a href="#">Matthew N. Davis</a></h6>
-                                    <a href="blog-details.php" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
+                                    <a href="#" class="main-btn filled-btn">Read More<i class="fas fa-paper-plane"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -148,7 +148,7 @@ require_once('parts/page-title.php');
                                     <li class="post-thumbnail-content">
                                         <img src="assets/images/blog/post-thumb-1.jpg" alt="post thumb">
                                         <div class="post-title-date">
-                                            <h5><a href="blog-details.php">Quality Assurance
+                                            <h5><a href="#">Quality Assurance
                                                 Requirements Web
                                                 Dev Risk Manage</a></h5>
                                             <span class="posted-on"><i class="far fa-calendar-alt"></i><a href="#">November 23,2022</a></span>
@@ -157,7 +157,7 @@ require_once('parts/page-title.php');
                                     <li class="post-thumbnail-content">
                                         <img src="assets/images/blog/post-thumb-2.jpg" alt="post thumb">
                                         <div class="post-title-date">
-                                            <h5><a href="blog-details.php">Deep Div Wonder
+                                            <h5><a href="#">Deep Div Wonder
                                                 World Of Displaem
                                                 Filtering</a></h5>
                                             <span class="posted-on"><i class="far fa-calendar-alt"></i><a href="#">November 23,2022</a></span>
@@ -166,7 +166,7 @@ require_once('parts/page-title.php');
                                     <li class="post-thumbnail-content">
                                         <img src="assets/images/blog/post-thumb-3.jpg" alt="post thumb">
                                         <div class="post-title-date">
-                                            <h5><a href="blog-details.php">Handling Mountin mountin Naviation
+                                            <h5><a href="#">Handling Mountin mountin Naviation
                                                 Routes In Native</a></h5>
                                             <span class="posted-on"><i class="far fa-calendar-alt"></i><a href="#">November 23,2022</a></span>
                                         </div>

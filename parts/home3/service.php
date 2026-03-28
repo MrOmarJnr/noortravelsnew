@@ -54,7 +54,7 @@
              and travel requirements to ensure a smooth and successful approval process.
           </p>
 
-          <img src="assets/images/service/visa-consult.jpg" alt="Visa Consultancy">
+          <img src="assets/images/gallery/image803.jpg" alt="Visa Consultancy">
 
           <a href="visa-services.php" class="btn-link">
             Get Assistance <i class="fas fa-long-arrow-alt-right"></i>

@@ -37,7 +37,7 @@ and Madinah.
 <img src="assets/images/gallery/guidance.jpg" class="rounded mb-40" alt="Pilgrim Group Travel">
 </div>
 <div class="col-lg-6">
-<img src="assets/images/gallery/pilgrim.jpg" class="rounded mb-40" alt="Saudi Arabia Pilgrimage">
+<img src="assets/images/gallery/image804.jpg" class="rounded mb-40" alt="Saudi Arabia Pilgrimage">
 </div>
 </div>
 
@@ -83,7 +83,7 @@ while maintaining comfort, organization, and reliability.
 
 <div class="single-gallery-item mb-30">
 <div class="gallery-img">
-<img src="assets/images/gallery/image403.jpeg" alt="Saudi Journey">
+<img src="assets/images/gallery/image805.jpg" alt="Saudi Journey">
 <div class="hover-overlay">
 <a href="assets/images/gallery/gal11.png" class="icon-btn img-popup">
 <i class="far fa-plus"></i>
@@ -94,7 +94,7 @@ while maintaining comfort, organization, and reliability.
 
 <div class="single-gallery-item mb-30">
 <div class="gallery-img">
-<img src="assets/images/gallery/gal8.png" alt="Umrah Experience">
+<img src="assets/images/gallery/image806.jpg" alt="Umrah Experience">
 <div class="hover-overlay">
 <a href="assets/images/gallery/gal8.png" class="icon-btn img-popup">
 <i class="far fa-plus"></i>
@@ -167,7 +167,7 @@ while maintaining comfort, organization, and reliability.
                 </div>
                 <div class="place-content">
                     <div class="info">
-                        <h4 class="title">Airport Meet Up Area</h4>
+                        <h4 class="title">Pre/ Post Umrah Meeting</h4>
                     
                         <p class="price">International Arrival Hub</p>
                     </div>
@@ -195,7 +195,7 @@ while maintaining comfort, organization, and reliability.
                 </div>
                 <div class="place-content">
                     <div class="info">
-                        <h4 class="title">Place of Worship</h4>
+                        <h4 class="title">Tour/ Ziyaara</h4>
                      
                         <p class="price"></p>
                     </div>
