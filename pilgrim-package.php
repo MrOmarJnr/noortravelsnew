@@ -214,7 +214,7 @@ while maintaining comfort, organization, and reliability.
         <div class="slider-active-5-item wow fadeInUp">
 
             <?php 
-            $gallery_images = ["gal1.png","gal2.png","gal3.png","gal4.png","gal5.png","gal6.png"];
+            $gallery_images = ["image807.jpg","image806.jpg","image808.jpg","image809.jpg","image810.jpg","image805.jpg"];
             foreach($gallery_images as $img){ ?>
             
             <div class="single-gallery-item">

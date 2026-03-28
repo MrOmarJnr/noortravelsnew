@@ -188,13 +188,13 @@ require_once('parts/page-title2.php');
 <!--====== End Contact Section ======-->
 
          <!--====== Start Gallery Section ======-->
-        <section class="gallery-section mbm-150">
+       <section class="gallery-section mbm-150">
             <div class="container-fluid">
                 <div class="slider-active-5-item wow fadeInUp">
                     <!--=== Single Gallery Item ===-->
                     <div class="single-gallery-item">
                         <div class="gallery-img">
-                            <img src="assets/images/gallery/gal1.png" alt="Gallery Image">
+                            <img src="assets/images/gallery/image808.jpg" alt="Gallery Image">
                             <div class="hover-overlay">
                                 <a href="assets/images/gallery/gal1.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                             </div>
@@ -203,7 +203,7 @@ require_once('parts/page-title2.php');
                     <!--=== Single Gallery Item ===-->
                     <div class="single-gallery-item">
                         <div class="gallery-img">
-                            <img src="assets/images/gallery/gal2.png" alt="Gallery Image">
+                            <img src="assets/images/gallery/image810.jpg" alt="Gallery Image">
                             <div class="hover-overlay">
                                 <a href="assets/images/gallery/gal2.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                             </div>
@@ -213,7 +213,7 @@ require_once('parts/page-title2.php');
                       <!--=== Single Gallery Item ===-->
                     <div class="single-gallery-item">
                         <div class="gallery-img">
-                            <img src="assets/images/gallery/image40.png" alt="Gallery Image">
+                            <img src="assets/images/gallery/image807.jpg" alt="Gallery Image">
                             <div class="hover-overlay">
                                 <a href="assets/images/gallery/image40.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                             </div>
@@ -263,7 +263,7 @@ require_once('parts/page-title2.php');
                       <!--=== Single Gallery Item ===-->
                     <div class="single-gallery-item">
                         <div class="gallery-img">
-                            <img src="assets/images/gallery/image41.png" alt="Gallery Image">
+                            <img src="assets/images/gallery/image809.jpg" alt="Gallery Image">
                             <div class="hover-overlay">
                                 <a href="assets/images/gallery/gal41.png" class="icon-btn img-popup"><i class="far fa-plus"></i></a>
                             </div>
