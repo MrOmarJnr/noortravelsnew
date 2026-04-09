@@ -27,12 +27,10 @@ cost-efficiency, and memorable experiences.
 </p>
 
 <div class="row">
-<div class="col-lg-6">
-<img src="assets/images/gallery/group-pic.jpg" class="rounded mb-40" alt="">
+<div class="col-lg-45">
+<img src="assets/images/gallery/image808.jpg" class="rounded mb-40" alt="" style=" width: 60%; height: auto;">
 </div>
-<div class="col-lg-6">
-<img src="assets/images/gallery/tour-pic.jpg" class="rounded mb-40" alt="">
-</div>
+
 </div>
 
 <h3>What We Provide</h3>

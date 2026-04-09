@@ -101,7 +101,7 @@
                                 <li><a href="travel-advisory.php">Holiday Tour Packages</a></li>
                                 <li><a href="organizational-tour.php">Flight Booking Assistance</a></li>
                                 <li><a href="pilgrim-package.php">Umrah Packages</a></li>
-                                <li><a href="#">Hotel Reservations</a></li>
+                              
                             </ul>
 
                             <ul class="footer-widget-nav">

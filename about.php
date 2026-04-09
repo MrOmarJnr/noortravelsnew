@@ -208,11 +208,11 @@ require_once('parts/page-title4.php');
             <div class="col-lg-4 col-md-6">
                 <div class="single-team-item mb-30 wow fadeInUp text-center">
                     <div class="member-img">
-                        <img src="assets/images/team/team-1.jpg" alt="CEO Image">
+                        <img src="assets/images/team/salma_noor.jpeg" alt="CEO Image">
                     </div>
                     <div class="member-info">
-                        <h4 class="title">Managing Director</h4>
-                        <p class="position">Founder & Lead Travel Consultant</p>
+                        <h4 class="title">Mrs Salma Inusah </h4>
+                        <p class="position">General Manager/ CEO</p>
                         <p>
                             Oversees visa consultation, strategic partnerships,
                             and international travel operations.
@@ -225,11 +225,11 @@ require_once('parts/page-title4.php');
             <div class="col-lg-4 col-md-6">
                 <div class="single-team-item mb-30 wow fadeInUp text-center">
                     <div class="member-img">
-                        <img src="assets/images/team/team-2.jpg" alt="Visa Consultant">
+                        <img src="assets/images/team/rashid_noor.jpeg" alt="Visa Consultant">
                     </div>
                     <div class="member-info">
-                        <h4 class="title">Senior Visa Consultant</h4>
-                        <p class="position">Visa Documentation Specialist</p>
+                        <h4 class="title">Mr Rashid Seidu </h4>
+                        <p class="position">Operational Manager</p>
                         <p>
                             Handles UK, USA, Canada, Dubai & Schengen
                             visa documentation and application review.
@@ -242,14 +242,29 @@ require_once('parts/page-title4.php');
             <div class="col-lg-4 col-md-6">
                 <div class="single-team-item mb-30 wow fadeInUp text-center">
                     <div class="member-img">
-                        <img src="assets/images/team/team-3.jpg" alt="Travel Officer">
+                        <img src="assets/images/team/dauda_noor.jpeg" alt="Travel Officer">
                     </div>
                     <div class="member-info">
-                        <h4 class="title">Travel Operations Manager</h4>
-                        <p class="position">Flight & Tour Coordinator</p>
+                        <h4 class="title">Mr Dauda Bawa </h4>
+                        <p class="position">Customer service representative</p>
                         <p>
                             Manages flight bookings, hotel reservations,
                             and international tour logistics.
+                        </p>
+                    </div>
+                </div>
+            </div>
+             <!-- Travel Operations -->
+            <div class="col-lg-4 col-md-6">
+                <div class="single-team-item mb-30 wow fadeInUp text-center">
+                    <div class="member-img">
+                        <img src="assets/images/team/hassana_noor.jpeg" alt="Travel Officer">
+                    </div>
+                    <div class="member-info">
+                        <h4 class="title">Mrs Hassana Inusah </h4>
+                        <p class="position">IT Support / Systems Administrator</p>
+                        <p>
+                            Manages flight bookings, hotel reservations and sytems Issues
                         </p>
                     </div>
                 </div>
