@@ -9,6 +9,101 @@ $page_title = "Contact";
 require_once('parts/page-title2.php');
 ?>
 
+
+
+
+<!--====== Start Contact Section ======-->
+<section class="contact-section pb-100">
+    <div class="container">
+
+        <div class="row justify-content-center">
+            <div class="col-xl-6">
+                <div class="section-title text-center mb-50 wow fadeInDown">
+                    <span class="sub-title">Get In Touch</span>
+                    <h2>Send Us a Message</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="contact-area wow fadeInUp">
+
+                    <form class="contact-form" method="post" action="send-mail.php">
+
+                        <div class="row">
+
+                            <div class="col-lg-6">
+                                <div class="form_group">
+                                    <input type="text"
+                                           placeholder="Full Name"
+                                           class="form_control"
+                                           name="name"
+                                           required>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="form_group">
+                                    <input type="text"
+                                           placeholder="Phone Number"
+                                           class="form_control"
+                                           name="number"
+                                           required>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="form_group">
+                                    <input type="email"
+                                           placeholder="Email Address"
+                                           class="form_control"
+                                           name="email"
+                                           required>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="form_group">
+                                    <input type="text"
+                                           placeholder="Destination / Visa Type"
+                                           class="form_control"
+                                           name="service"
+                                           required>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-12">
+                                <div class="form_group">
+                                    <textarea name="message"
+                                              placeholder="Tell us how we can assist you..."
+                                              class="form_control"
+                                              rows="6"
+                                              required></textarea>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-12">
+                                <div class="form_group text-center">
+                                    <button class="main-btn primary-btn">
+                                        Send Message
+                                        <i class="fas fa-paper-plane"></i>
+                                    </button>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </form>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+<!--====== End Contact Section ======-->
+
 <!--====== Start Info Section ======-->
 <section class="contact-info-section pt-100 pb-60">
     <div class="container">
@@ -95,97 +190,6 @@ require_once('parts/page-title2.php');
 <!--====== End Contact Map Section ======-->
 
 
-<!--====== Start Contact Section ======-->
-<section class="contact-section pb-100">
-    <div class="container">
-
-        <div class="row justify-content-center">
-            <div class="col-xl-6">
-                <div class="section-title text-center mb-50 wow fadeInDown">
-                    <span class="sub-title">Get In Touch</span>
-                    <h2>Send Us a Message</h2>
-                </div>
-            </div>
-        </div>
-
-        <div class="row justify-content-center">
-            <div class="col-lg-10">
-                <div class="contact-area wow fadeInUp">
-
-                    <form class="contact-form" method="post" action="#">
-
-                        <div class="row">
-
-                            <div class="col-lg-6">
-                                <div class="form_group">
-                                    <input type="text"
-                                           placeholder="Full Name"
-                                           class="form_control"
-                                           name="name"
-                                           required>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6">
-                                <div class="form_group">
-                                    <input type="text"
-                                           placeholder="Phone Number"
-                                           class="form_control"
-                                           name="number"
-                                           required>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6">
-                                <div class="form_group">
-                                    <input type="email"
-                                           placeholder="Email Address"
-                                           class="form_control"
-                                           name="email"
-                                           required>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6">
-                                <div class="form_group">
-                                    <input type="text"
-                                           placeholder="Destination / Visa Type"
-                                           class="form_control"
-                                           name="service"
-                                           required>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-12">
-                                <div class="form_group">
-                                    <textarea name="message"
-                                              placeholder="Tell us how we can assist you..."
-                                              class="form_control"
-                                              rows="6"
-                                              required></textarea>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-12">
-                                <div class="form_group text-center">
-                                    <button class="main-btn primary-btn">
-                                        Send Message
-                                        <i class="fas fa-paper-plane"></i>
-                                    </button>
-                                </div>
-                            </div>
-
-                        </div>
-
-                    </form>
-
-                </div>
-            </div>
-        </div>
-
-    </div>
-</section>
-<!--====== End Contact Section ======-->
 
          <!--====== Start Gallery Section ======-->
        <section class="gallery-section mbm-150">
