@@ -20,7 +20,7 @@
 
          
 
-          <a href="services.php" class="main-btn filled-btn">
+          <a href="about.php" class="main-btn filled-btn">
             Explore Services <i class="fas fa-arrow-right"></i>
           </a>
         </div>

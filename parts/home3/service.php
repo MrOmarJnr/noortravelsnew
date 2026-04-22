@@ -47,7 +47,7 @@
       <div class="single-service-item-three mb-40">
         <div class="content">
           <h3 class="title">
-            <a href="visa-services.php">Visa Consultancy</a>
+            <a href="visa-about.php">Visa Consultancy</a>
           </h3>
           <p>
             Get professional guidance on visa applications, documentation,
@@ -56,7 +56,7 @@
 
           <img src="assets/images/gallery/image803.jpg" alt="Visa Consultancy">
 
-          <a href="visa-services.php" class="btn-link">
+          <a href="visa-about.php" class="btn-link">
             Get Assistance <i class="fas fa-long-arrow-alt-right"></i>
           </a>
 
@@ -73,7 +73,7 @@
       <div class="single-service-item-three mb-40">
         <div class="content">
           <h3 class="title">
-            <a href="services.php">Air Ticket Booking</a>
+            <a href="about.php">Air Ticket Booking</a>
           </h3>
           <p>
             Competitive flight reservations with trusted support from booking
@@ -82,7 +82,7 @@
 
           <img src="assets/images/service/airtickcet.png" alt="Air Ticket Booking">
 
-          <a href="services.php" class="btn-link">
+          <a href="about.php" class="btn-link">
             Book a Flight <i class="fas fa-long-arrow-alt-right"></i>
           </a>
 

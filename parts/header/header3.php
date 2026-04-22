@@ -74,15 +74,7 @@
                             <div class="mobile-logo mb-30 d-block d-xl-none">
                                 <a href="index.php" class="brand-logo"><img src="assets/images/logo/newnewcol.png" alt="Site Logo"></a>
                             </div>
-                            <!--=== Nav Search ===-->
-                            <div class="nav-search mb-30 d-block d-xl-none ">
-                                <form>
-                                    <div class="form_group">
-                                        <input type="email" class="form_control" placeholder="Search Here" name="email" required>
-                                        <button class="search-btn"><i class="fas fa-search"></i></button>
-                                    </div>
-                                </form>
-                            </div>
+                           
                             <!--====== Main Menu ======-->
                             <nav class="main-menu">
                             <?php require_once('parts/header/menu.php'); ?>

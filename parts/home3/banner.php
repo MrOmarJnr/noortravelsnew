@@ -19,7 +19,7 @@
                 </p>
                  <div class="hero-button" data-animation="fadeInRight" data-delay=".6s"> 
                   <a href="about.php" class="main-btn primary-btn">Explore More<i class="fas fa-paper-plane"></i></a> 
-                  <a href="about.php" class="main-btn secondary-btn">Book Now<i class="fas fa-paper-plane"></i></a> 
+                  <a href="contact.php" class="main-btn secondary-btn">Book Now<i class="fas fa-paper-plane"></i></a> 
                 </div>
                </div> 
               </div>
@@ -46,7 +46,7 @@
                 </p>
 
                 <div class="hero-button mt-4" data-animation="fadeInRight" data-delay=".8s">
-                  <a href="umrah-packages.php" class="main-btn primary-btn">
+                  <a href="about.php" class="main-btn primary-btn">
                     View Umrah Packages <i class="fas fa-arrow-right"></i>
                   </a>
 
@@ -80,7 +80,7 @@
                 </p>
 
                 <div class="hero-button mt-4" data-animation="fadeInRight" data-delay=".8s">
-                  <a href="services.php" class="main-btn primary-btn">
+                  <a href="about.php"" class="main-btn primary-btn">
                     View All Services <i class="fas fa-arrow-right"></i>
                   </a>
 
